@@ -1,1 +1,1 @@
-# numpytest
+# python and numpy practice
